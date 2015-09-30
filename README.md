@@ -49,7 +49,7 @@ Good to understand what's what.
 - [Babel](https://babeljs.io/) - ES6 transpiler
 - [Webpack](https://webpack.github.io/) - module bundler & task runner
 - [React](https://facebook.github.io/react/) - interfaces
-- [react-hot-loader](https://github.com/gaearon/react-hot-loader) - hot realoading for react
+- [react-hot-loader](https://github.com/gaearon/react-hot-loader) - hot reloading for react
 - [react-router](https://github.com/rackt/react-router) - react application router
 - [react-redux](https://github.com/rackt/react-redux) - react bindings for redux
 - [Immutable](https://github.com/facebook/immutable-js) - data structures
