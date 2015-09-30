@@ -1,6 +1,6 @@
-# boilerplate-koa-redux-react
+# Boilerplate for a Koa Redux React app with Webpack, Mocha, SASS, Babel, ESLint...
 
-## Building the boilerplate
+## Docs
 
 [Detailed blogpost on how was this boilerplate built](http://blog.joanboixados.com/building-a-boilerplate-for-a-koa-redux-react-application-including-webpack-mocha-and-sass/)
 
