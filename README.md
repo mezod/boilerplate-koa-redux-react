@@ -41,5 +41,25 @@ Good to understand what's what.
 - Node - JS runtime environment
 - npm - package manager
 - Koa - api framework
-- 
+- koa-router - api router
+- koa-cors - cors support
+- Bookshelf.js - ORM
+- knex - query builder
+- mysql - MySQL driver for JS
+- Babel - ES6 transpiler
+- Webpack - module bundler & task runner
+- React - views framework
+- react-router - react application router
+- react-redux - react bindings for redux
+- Immutable - data structures
+- Redux - awesome flux architecture
+- redux-thunk - thunk middleware for redux
+- isomorphic-fetch - API fetch network requests
+- redux-devtools - redux development tool
+- SASS - styles
+- ESLint - linter
+- Mocha - unit tests
+- jsdom - vdom to test React without browser
+- Chai - assertion library
+- A bunch of useful scripts
 
