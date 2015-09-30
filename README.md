@@ -8,25 +8,25 @@ Good to understand what's what.
 
 ## Instructions
 
-1. Clone repo
+1. **Clone repo**
 
     git clone https://github.com/mezod/boilerplate-koa-redux-react.git
 
-2. Install dependencies
+2. **Install dependencies**
 
     npm install
 
-3. Run the webserver
+3. **Run the webserver**
 
     npm run webserver
 
     Webserver should be running at http://localhost:3000/
 
-4. Make build
+4. **Make build**
 
    npm run build
 
-5. Run development server
+5. **Run development server**
 
    npm run dev
 
