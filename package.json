@@ -4,6 +4,7 @@
   "description": "A boilerplate for a Koa Redux React application with Webpack, Mocha and SASS",
   "main": "index.js",
   "scripts": {
+    "webserver": "node api/src/server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js 'test/**/*.@(js|jsx)'",
     "test:watch": "npm run test -- --watch",
     "build": "node_modules/.bin/webpack",
