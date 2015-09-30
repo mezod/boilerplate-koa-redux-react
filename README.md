@@ -32,7 +32,7 @@ Good to understand what's what.
 
    Development server should be running at http://localhost:8080/
 
-## Real projects using this boilerplate
+## Real project using this boilerplate
 
 [www.listlogs.com](https://github.com/mezod/listlogs) - under development
 
