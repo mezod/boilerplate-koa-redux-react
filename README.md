@@ -65,19 +65,34 @@ Good to understand what's what.
 
 ## Scripts
 - **npm run webserver**
+
      Starts Koa server
+
 - **npm run test**
+
      Runs unit tests
+
 - **npm run test:watch**
+
      Watches for changes to run unit tests
+
 - **npm run build**
+
      Bundles the application
+
 - **npm run dev**
+
      Starts webpack development server
+
 - **npm run lint**
+
      Runs the linter
+
 - **npm run deploy**
+
      Creates the production ready files
+
 - **npm run clean**
+
     Removes the bundled code and the production ready files
 
