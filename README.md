@@ -38,5 +38,8 @@ Good to understand what's what.
 
 ## List of techs
 
-
+- Node - JS runtime environment
+- npm - package manager
+- Koa - api framework
+- 
 
