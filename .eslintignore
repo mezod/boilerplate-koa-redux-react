@@ -1,2 +1,3 @@
-build
-dist
+app/build/
+app/dist/
+webpack.config.js

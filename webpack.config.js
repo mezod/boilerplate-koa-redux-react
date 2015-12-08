@@ -1,21 +1,19 @@
-var webpack = require('webpack');
-
-var path = require('path');
-var HtmlwebpackPlugin = require('html-webpack-plugin');
-
-var ROOT_PATH = path.resolve(__dirname);
+const webpack = require('webpack');
+const path = require('path');
+const HtmlwebpackPlugin = require('html-webpack-plugin');
+const ROOT_PATH = path.resolve(__dirname);
 
 module.exports = {
   devtool: process.env.NODE_ENV === 'production' ? '' : 'source-map',
   entry: [
-    path.resolve(ROOT_PATH, 'app/src/index'),
+    path.resolve(ROOT_PATH,'app/src/index')
   ],
   module: {
     preLoaders: [
       {
         test: /\.jsx?$/,
         loaders: process.env.NODE_ENV === 'production' ? [] : ['eslint'],
-        include: path.resolve(ROOT_PATH, 'app')
+        include: path.resolve(ROOT_PATH, './app')
       }
     ],
     loaders: [{
@@ -34,10 +32,10 @@ module.exports = {
   output: {
     path: process.env.NODE_ENV === 'production' ? path.resolve(ROOT_PATH, 'app/dist') : path.resolve(ROOT_PATH, 'app/build'),
     publicPath: '/',
-    filename: 'bundle.js'
+    filename: 'bundle.js',
   },
   devServer: {
-    contentBase: path.resolve(ROOT_PATH, 'app/dist'),
+    contentBase: path.resolve(ROOT_PATH, 'app/build'),
     historyApiFallback: true,
     hot: true,
     inline: true,
@@ -46,7 +44,7 @@ module.exports = {
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
     new HtmlwebpackPlugin({
-      title: 'Listlogs'
+      title: 'React BoilerPlate'
     })
   ]
 };
