@@ -34,7 +34,7 @@ Good to understand what's what.
 
 ## Real project using this boilerplate
 
-[www.listlogs.com](https://github.com/mezod/listlogs) - under development
+[www.listlogs.com](http://www.listlogs.com)
 
 ## List of techs
 
