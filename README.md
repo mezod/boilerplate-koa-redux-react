@@ -34,7 +34,8 @@ Good to understand what's what.
 
 ## Real project using this boilerplate
 
-[www.listlogs.com](http://www.listlogs.com)
+[listlogs.com](http://www.listlogs.com)
+[eventradr.com](http://eventradr.com)
 
 ## List of techs
 
