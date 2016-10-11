@@ -32,7 +32,7 @@ Good to understand what's what.
 
    Development server should be running at http://localhost:8080/
 
-## Real project using this boilerplate
+## Real projects using this boilerplate
 
 [listlogs.com](http://www.listlogs.com)
 
