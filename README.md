@@ -38,6 +38,8 @@ Good to understand what's what.
 
 [eventradr.com](http://eventradr.com)
 
+[everydaycheck.com](http://everydaycheck.com)
+
 ## List of techs
 
 - [Node](https://nodejs.org/en/) - JS runtime environment
