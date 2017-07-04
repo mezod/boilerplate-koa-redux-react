@@ -38,7 +38,7 @@ Good to understand what's what.
 
 [eventradr.com](http://eventradr.com)
 
-[everydaycheck.com](http://everydaycheck.com)
+[everydaycheck.com - Simple and beautiful habit tracker](http://everydaycheck.com)
 
 ## List of techs
 
